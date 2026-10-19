@@ -38,6 +38,6 @@
 
 <img src="https://i.pinimg.com/originals/ce/0c/3a/ce0c3a8e9742afc8cc5862dff94b3c00.gif" width="400" />
 
-*Programando magia, un pixel a la vez.* 🩰🧸✨
+*Programando magia, un pixel a la vez.* 🧸
 
 </div>
