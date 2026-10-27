@@ -1,11 +1,11 @@
 <div align="center">
-  <!-- Un banner bonito o un título de bienvenida -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=¡Hola,%20Mundo!%20✨&fontSize=40&fontColor=fff&animation=fadeIn" />
+  <!-- Banner de bienvenida -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7b2&height=160&section=header&text=¡Hola,%20Mundo!%20✨&fontSize=40&fontColor=fff&animation=fadeIn" />
 
   <p><i>🌸 Estudiante de ingeniería, creadora de código y amante de los detalles bonitos 🌸</i></p>
 
-  <!-- Insignias de redes / contacto en tonos limpios -->
-  <a href="https://github.com">
+  <!-- Insignias de contacto en tonos pastel -->
+  <a href="https://github.com/TU_USUARIO_AQUÍ">
     <img src="https://img.shields.io/badge/GitHub-Perfil-ffb7b2?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:tu-correo@example.com">
@@ -26,7 +26,6 @@
 ### 🧸 Mis Tecnologías y Herramientas
 
 <div align="center">
-  <!-- Badges de lenguajes y herramientas con estilo -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white" />
@@ -40,18 +39,17 @@
 ### 📊 Estadísticas y Actividad
 
 <div align="center">
-  <!-- Estadísticas generales con colores personalizados (pastel/lavanda) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=vue-dark&hide_border=true&bg_color=1a1a2e&title_color=ffb7b2&icon_color=ffdac1&text_color=e2f0cb" height="180" />
+  <!-- Estadísticas generales con colores limpios y sin conflicto -->
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&hide_border=true&bg_color=181824&title_color=ffb7b2&icon_color=ffdac1&text_color=ffffff&cache_seconds=86400" height="180" />
   
   <!-- Racha de contribuciones -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TU_USUARIO_AQUÍ&theme=vue-dark&hide_border=true&background=1a1a2e&stroke=ffb7b2&ring=ffdac1&fire=ffb7b2&currStreakLabel=ffb7b2" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TU_USUARIO_AQUÍ&hide_border=true&background=181824&stroke=ffb7b2&ring=ffdac1&fire=ffb7b2&currStreakLabel=ffb7b2&sideLabels=true" height="180" />
 </div>
 
 ---
 
 <div align="center">
-  <!-- Un pequeño separador o pixel art al final -->
-  <img src="https://raw.githubusercontent.org/platzi/platzi/master/tree.png" height="80" width="80" alt="Platzi tree" />
+  <img src="https://raw.githubusercontent.com/platzi/platzi/master/tree.png" height="80" width="80" alt="Platzi tree" />
   <p><i>¡Gracias por pasar por aquí! Que tengas un día maravilloso 💖</i></p>
   
   <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_AQUÍ&color=ffb7b2&style=flat-square&label=Visitas+magicas" alt="contador de visitas" />
