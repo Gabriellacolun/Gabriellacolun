@@ -1,43 +1,58 @@
 <div align="center">
+  <!-- Un banner bonito o un título de bienvenida -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=¡Hola,%20Mundo!%20✨&fontSize=40&fontColor=fff&animation=fadeIn" />
 
-# 🩰 🤎 ¡Holii! Soy Gaby 🤎 🩰
+  <p><i>🌸 Estudiante de ingeniería, creadora de código y amante de los detalles bonitos 🌸</i></p>
 
-<!-- Texto animado con color Sakura de tu paleta -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=25&pause=1000&color=EC9C9D&center=true&vCenter=true&width=500&lines=Ingenier%C3%ADa+Mecatr%C3%B3nica+🩰;Desarrollo+Web;Hardware+%2B+Dise%C3%B1o+Cozy+🧸)](https://git.io/typing-svg)
-
-<img src="https://i.pinimg.com/originals/a0/0a/63/a00a631d5b3d688005b8a5fcb376eb1c.gif" width="120" />
-
+  <!-- Insignias de redes / contacto en tonos limpios -->
+  <a href="https://github.com">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-ffb7b2?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:tu-correo@example.com">
+    <img src="https://img.shields.io/badge/Email-Contacto-ffdac1?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
-<br>
+---
 
-### 🧸🩰 Sobre mi mundo
-- 🤎 Estudiante de Ingeniería Mecatrónica, mezclando cables con estética.
-- 🩰 Desarrollando experiencias lindas con React, Tailwind y microcontroladores.
-- 🎀 Fan del Pixel Art, dibujando cositas en Aseprite mientras tomo un matcha.
-- 🧸 Siempre buscando hacer que la tecnología se sienta más humana y *cozy*.
+### 🌷 Sobre mí
+- 💻 **Actualmente aprendiendo:** Nuevas formas de hacer que el código funcione (¡y se vea hermoso!).
+- 🛠️ **Mis herramientas favoritas:** Python, LaTeX, Git y mucho café con leche.
+- 🎨 **Me encanta:** Diseñar interfaces, automatizar procesos y crear sistemas creativos.
+- 🎧 **Música en bucle:** Lofi beats y synthwave suave.
 
-<br>
+---
+
+### 🧸 Mis Tecnologías y Herramientas
 
 <div align="center">
+  <!-- Badges de lenguajes y herramientas con estilo -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+</div>
 
-### 🩰 Tech Stack 🩰
+---
 
-<!-- Badges con los colores de tu paleta -->
-<img src="https://img.shields.io/badge/React-EC9C9D?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-AA7F66?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-7F5836?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-443025?style=for-the-badge&logo=arduino&logicColor=white" />
+### 📊 Estadísticas y Actividad
 
-<br><br>
+<div align="center">
+  <!-- Estadísticas generales con colores personalizados (pastel/lavanda) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=vue-dark&hide_border=true&bg_color=1a1a2e&title_color=ffb7b2&icon_color=ffdac1&text_color=e2f0cb" height="180" />
+  
+  <!-- Racha de contribuciones -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TU_USUARIO_AQUÍ&theme=vue-dark&hide_border=true&background=1a1a2e&stroke=ffb7b2&ring=ffdac1&fire=ffb7b2&currStreakLabel=ffb7b2" height="180" />
+</div>
 
-<!-- Tarjeta de estadísticas usando Misty Rose, Dark Chocolate, Sakura y Milk Tea -->
-[![Gaby's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriellacolun&show_icons=true&bg_color=FDF2F2&title_color=443025&text_color=7F5836&icon_color=EC9C9D&border_color=AA7F66&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-<br>
-
-<img src="https://i.pinimg.com/originals/ce/0c/3a/ce0c3a8e9742afc8cc5862dff94b3c00.gif" width="400" />
-
-*Programando magia, un pixel a la vez.* 🧸
-
+<div align="center">
+  <!-- Un pequeño separador o pixel art al final -->
+  <img src="https://raw.githubusercontent.org/platzi/platzi/master/tree.png" height="80" width="80" alt="Platzi tree" />
+  <p><i>¡Gracias por pasar por aquí! Que tengas un día maravilloso 💖</i></p>
+  
+  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_AQUÍ&color=ffb7b2&style=flat-square&label=Visitas+magicas" alt="contador de visitas" />
 </div>
