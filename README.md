@@ -3,7 +3,7 @@
 # 🩰 🤎 ¡Holii! Soy Gaby 🤎 🩰
 
 <!-- Texto animado con color Sakura de tu paleta -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=25&pause=1000&color=EC9C9D&center=true&vCenter=true&width=500&lines=Ingenier%C3%ADa+Mecatr%C3%B3nica+🩰;Desarrollo+Web+🎀;Hardware+%2B+Dise%C3%B1o+Cozy+🧸)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=25&pause=1000&color=EC9C9D&center=true&vCenter=true&width=500&lines=Ingenier%C3%ADa+Mecatr%C3%B3nica+🩰;Desarrollo+Web;Hardware+%2B+Dise%C3%B1o+Cozy+🧸)](https://git.io/typing-svg)
 
 <img src="https://i.pinimg.com/originals/a0/0a/63/a00a631d5b3d688005b8a5fcb376eb1c.gif" width="120" />
 
